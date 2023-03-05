@@ -1,0 +1,3 @@
+[submodule "3Sum/opencv3/opencv3"]
+	path = 3Sum/opencv3/opencv3
+	url = https://github.com/yergen/opencv3
